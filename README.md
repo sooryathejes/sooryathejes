@@ -31,9 +31,11 @@
   <a href="https://www.instagram.com/soorya_thjs_/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  
   <a href="sooryathjs007@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  
   <a href="https://www.linkedin.com/in/soorya-thejes-8a499b270/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -43,6 +45,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sooryathejes/sooryathejes/output/snake.svg" alt="Snake animation" />
 
 ###
