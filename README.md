@@ -1,1 +1,1 @@
-<img style="width:100%;" src="https://i.pinimg.com/564x/28/b6/6d/28b66d60f1cdfef198aa1486e2bbeba1.jpg">
+<img style="width:100%;" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Rvs7u_g6dnDTRF-FMY4vsA.png">
