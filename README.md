@@ -1,1 +1,1 @@
-<img src="[https://i.pinimg.com/736x/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.jpg](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Rvs7u_g6dnDTRF-FMY4vsA.png)">
+<img src="https://i.pinimg.com/564x/28/b6/6d/28b66d60f1cdfef198aa1486e2bbeba1.jpg">
